@@ -2,7 +2,7 @@
 
 ## 📑Project Overview
 
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement Data Analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing and Supply Chain.
+AtliQ Hardware is growing rapidly in recent years, and they have decided to implement Data Analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing, and Supply Chain.
 
 ## 👨‍💻Tech Stacks
 
@@ -154,11 +154,11 @@ Fact table : It will have the data about the transactions
 
 ### 🎨Dashboard designing
 
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+Based on the mock-ups received as a requirement, the team will start designing the visuals and create measure as and when required
 
 ## 🏡Home view
 
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+In-Home view, all the views button will be available. Users will land on a specific view page by clicking the button 
 
 - Info
 - Finance View
@@ -170,4 +170,4 @@ In Home view, all the views button will be available. User will land on specific
 
 ## 🎯Project Outcome
 
-By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+By using this report, decisions can be made based on the data. Further, it will help in answering n number of why questions based on the situation.
