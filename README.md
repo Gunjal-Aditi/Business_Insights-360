@@ -63,22 +63,6 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 <br />Project Kick Off Session, where you should get clear picture of this project and all other questions you have with regards to the project:
 
-### ❓Questions To Ask Before Starting With Dashboard
-
-- What is the objective of building this Power BI Dashboard?
-- In what terms the success of this project will be measured?
-- What will be time dead-line of the project?
-- Do the stakeholders expecting pre-view before the actual release?
-- What are all the hopes stakeholders have out of this project?
-- what are all the fears stakeholders have in terms of building this dashboard?
-- Who all will be using this dashboard and for what purpose?
-- what are the expectations of stakeholders, by the completion of this project?
-- What can go wrong while building this project?
-- what are all the resources/ data needed to build this dashboard?
-- is there any inputs from stakeholders in terms of design and views of the dashboard?
-
-<br />After the Project Kick Off Sessions, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
-
 ### 🧐Dataset **Understanding**
 
 Understanding what data is available will be more helpful while doing analysis. Before jumping on to the analysis get good understanding of what data are available.
@@ -167,6 +151,9 @@ In-Home view, all the views button will be available. Users will land on a speci
 - Supply chain View
 - Executive View
 - Support
+
+## Project Insights
+![Dashboard Screenshot](C:\Users\aditi\OneDrive\Pictures\Screenshots\Screenshot 2024-11-22 154404.png)
 
 ## 🎯Project Outcome
 
