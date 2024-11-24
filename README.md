@@ -2,7 +2,7 @@
 
 ## 📑Project Overview
 
-AtliQ Hardware is growing rapidly in recent years, and they have decided to implement Data Analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing, and Supply Chain.
+AtliQ Hardware has grown rapidly in recent years, and they have decided to implement Data Analytics using Power BI in their company for the first time to surpass their competitors in the market and make data-driven decisions. This project hopes to answer stakeholders' questions about all aspects, such as Finance, Sales, Marketing, and Supply Chain.
 
 ## 👨‍💻Tech Stacks
 
@@ -104,14 +104,14 @@ Fact table : It will have the data about the transactions
         - There are 14 different categories, Like Internal HDD, Keyboard
         - There are different variants available for the same product
     - fact_forecast_monthly
-        - This table is used to forecast the customer’s need in advance, which can help in
+        - This table is used to forecast the customer’s needs in advance, which can help in
             - Higher customer satisfaction
-            - Reduced cost in warehouses for storage purpose
-        - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
+            - Reduced cost in warehouses for storage purposes
+        The table is denormalized by the data engineering team, as it is a data warehouse intended for analytical work.
         - All the date of the month will be replaced by the start date of the month
-        - It will have all the column names and in the end it will have the forecast quantity need of the customer
+        - It will have all the column names and in the end, it will have the forecast quantity need of the customer
     - fact_sales_monthly
-        - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
+        - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of the forecast value.
 - gdb056
     - freight_cost
         - This table has details of travel cost and other cost for each market with fiscal year
@@ -120,7 +120,7 @@ Fact table : It will have the data about the transactions
     - manufacturing_cost
         - Has the details of manufacturing cost with product code and year
     - Pre_invoice_dedutions
-        - Has the details of pre invoice deductions percentage for each cutomer and year
+        - Has the details of pre-invoice deductions percentage for each cutomer and year
     - Post_invoice_deductions
         - Post invoice deductions and other deductions details
 
@@ -130,15 +130,12 @@ Fact table : It will have the data about the transactions
 
 ## ✨Data Model
 
-- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
-- Poor data modeling affects the over all performance of the report.
-- Following good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-- In this project, we have followed Snowfall data modeling method.
-
+- Data modeling plays a vital role and is considered as the basement of the report. All the visuals will be built upon the data model.
+-  In this project, we have followed Snowfall data modeling method.
 
 ### 🎨Dashboard designing
 
-Based on the mock-ups received as a requirement, the team will start designing the visuals and create measure as and when required
+Based on the mock-ups received as a requirement, the team will start designing the visuals and create measures as and when required
 
 ## 🏡Home view
 
@@ -152,9 +149,6 @@ In-Home view, all the views button will be available. Users will land on a speci
 - Executive View
 - Support
 
-## Project Insights
-![Dashboard Screenshot](C:\Users\aditi\OneDrive\Pictures\Screenshots\Screenshot 2024-11-22 154404.png)
-
 ## 🎯Project Outcome
 
-By using this report, decisions can be made based on the data. Further, it will help in answering n number of why questions based on the situation.
+This report can be used to make decisions based on the data. Further, it will help answer a number of why questions based on the situation.
